@@ -1,2 +1,3 @@
 # Code, Data, and Models for Webis Papers accepted at LREC-COLING 2024
 - Gohsen et al. 2024; **Task-Oriented Paraphrase Analytics** [[code](https://github.com/webis-de/coling24-task-oriented-paraphrase-analytics)] [[data](https://doi.org/10.5281/zenodo.11191536)] [[paper](https://downloads.webis.de/publications/papers/gohsen_2024b.pdf)]
+- Mirzakhmedova et al. 2024; **The Touché23-ValueEval Dataset for Identifying Human Values behind Arguments** [[code](https://github.com/touche-webis-de/touche-code/tree/main/semeval23/human-value-detection)] [[data](https://doi.org/10.5281/zenodo.6814563)] [[paper](https://webis.de/publications.html#mirzakhmedova_2024a)] [[demo](values.args.me)]
